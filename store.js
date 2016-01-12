@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 /**
  * @author Seena Rowhani
- * Submission for Spotify Jobs
+ * Submission for shopify Jobs
  */
 (function(req){
   req('http://shopicruit.myshopify.com/products.json', function(err, res, body){
